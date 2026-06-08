@@ -1,4 +1,5 @@
 node_modules/
 .cache/
 *.map
-src/build/
+src/build/node_modules/ 
+.parcel-cache/ 
